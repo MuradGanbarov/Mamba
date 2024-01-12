@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mamba", "Mamba\Mamba.csproj", "{A5E4B103-5B98-4798-9E49-9C4BD8A0425E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E4B103-5B98-4798-9E49-9C4BD8A0425E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E4B103-5B98-4798-9E49-9C4BD8A0425E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E4B103-5B98-4798-9E49-9C4BD8A0425E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E4B103-5B98-4798-9E49-9C4BD8A0425E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61775CF1-5B12-4A4D-BF39-180CB45336A0}
+	EndGlobalSection
+EndGlobal
